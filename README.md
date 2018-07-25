@@ -23,6 +23,9 @@ If you have any paper/code suggestions, please feel free to edit and sumbit a pu
 - Deepmind's wavenet (2016), Van den Oord et al. [[pdf]](https://arxiv.org/pdf/1609.03499.pdf) [[code]](https://github.com/usernaamee/keras-wavenet)
 -  Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network. (2016), C. Ledig et al. [[pdf]](https://arxiv.org/pdf/1609.04802v2.pdf) [[code]](https://github.com/titu1994/Super-Resolution-using-Generative-Adversarial-Networks)
 
+### Language Models
+- Generating Sentences from a Continuous Space. (2016) S.R. Bowman et al. [[pdf]](https://arxiv.org/abs/1511.06349) [[code]](https://github.com/pbloem/language-models)
+
 ### Convolutional Models  
 - XCeption (2016), F. Chollet. [[pdf]](https://arxiv.org/pdf/1610.02357.pdf) [[code]](https://github.com/fchollet/deep-learning-models/blob/master/xception.py)
 - Inception v3 (2015), C. Szegedy et al. [[pdf]](https://arxiv.org/pdf/1512.00567.pdf) [[code]](https://github.com/fchollet/deep-learning-models/blob/master/inception_v3.py)    
